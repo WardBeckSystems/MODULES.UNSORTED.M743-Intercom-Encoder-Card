@@ -35,7 +35,7 @@ Wide digital logic schematic strip with title block at bottom right.
 - **Words (OCR):** 25 in 24 lines: R344 · SOATROL · 740@ · LINE · ONTIOL · 740S · OFF · JASC · READ · NF · DatA LINE? · On StATUS
 - **Wiring (first pass):** 86 connected wire groups from 978 runs; labelled ends: 1692 mm → R344, JASC; 84 mm → 77404; 70 mm → R344; 66 mm → 740@, 740S; 53 mm → 04743, ENcoDER
 
-Every curve, box, word and wire group: [1971 - 743-02-001 - (M743) INTERCOM ENCODER CARD SCHEMATIC - ISS 2 (traced).json](../SCHEMATICS/1971%20-%20743-02-001%20-%20(M743)%20INTERCOM%20ENCODER%20CARD%20SCHEMATIC%20-%20ISS%202%20(traced).json) (the CAD file: `1971 - 743-02-001 - (M743) INTERCOM ENCODER CARD SCHEMATIC - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 743-02-001 - (M743) INTERCOM ENCODER CARD SCHEMATIC - ISS 2 (traced).json](../SCHEMATICS/1971%20-%20743-02-001%20-%20%28M743%29%20INTERCOM%20ENCODER%20CARD%20SCHEMATIC%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1971 - 743-02-001 - (M743) INTERCOM ENCODER CARD SCHEMATIC - ISS 2 (traced).dxf`).
 
 ## Full text
 
